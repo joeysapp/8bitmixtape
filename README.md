@@ -1,3 +1,10 @@
+# Jeff's Solution
+![jeff is so clever and smart however he worships satan and smokes dank kushreef](https://github.com/joeysapp/8bitmixtape/blob/master/jeffs-solution.gif?raw=true)
+```clojure
+    (rich hickey)
+```
+
+
 # 8bitmixtape
 I've tried four times over the past year trying to get the 8bitmixtape-neo working, but I hadn't really known what was going on and it stopped being fun at like hour 4 every time. I think I'm close to getting it working though. My current progress:
 
@@ -25,12 +32,6 @@ Except the tiny programmer doesn't show up anywhere under /dev/ that I can tell.
 
 
 Sorry I never got this working. I kind of understand more what's going on, but not really.
-
-# Jeff's Solution
-![jeff is so clever and smart however he worships satan and smokes dank kushreef](https://github.com/joeysapp/8bitmixtape/blob/master/jeffs-solution.gif?raw=true)
-```clojure
-    (rich hickey)
-```
 
 
 # Further reading, or so I can close 100 tabs and go to bed
